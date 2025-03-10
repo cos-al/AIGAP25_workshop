@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+![logo_1](https://github.com/user-attachments/assets/4ab55010-3b3e-4650-bfe9-d9f7b437aeed)
 
 
 ## Mind the AI-GAP 2025: Co-Designing Socio-Technical Systems 
