@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-
+![Mind the AIGap lorgo.](logo_1.svg)
 
 ## Mind the AI-GAP 2025: Co-Designing Socio-Technical Systems 
 
@@ -23,7 +23,7 @@ Eleonora Cappuccio, Consiglio Nazionale delle Ricerche
 
 Donatella Donati, Università dell’Aquila
 
-Miriam Felici, Designer  
+Miriam Felici, Digital Product Designer  
 
 Marta Marchiori Manerba, Università di Pisa
 
