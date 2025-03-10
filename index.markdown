@@ -13,7 +13,7 @@ This workshop is set out to critically identify risks and limitations in AI-powe
 * Submission deadline: 7 April, 2025
 * Notification of acceptance: 2 May, 2025
 * Camera Ready due: 12 May, 2025
-* Workshop: 9 / 10 June 2025 in Pisa, Italy
+* Workshop: 9 June 2025 in Pisa, Italy
 
 ### Workshop Organizers
 
@@ -23,7 +23,7 @@ Eleonora Cappuccio, Consiglio Nazionale delle Ricerche
 
 Donatella Donati, Università dell’Aquila
 
-Miriam Felici, Independent Researcher 
+Miriam Felici, Digital Product Designer
 
 Marta Marchiori Manerba, Università di Pisa
 
