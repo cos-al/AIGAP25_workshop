@@ -23,7 +23,7 @@ Eleonora Cappuccio, Consiglio Nazionale delle Ricerche
 
 Donatella Donati, Università dell’Aquila
 
-Miriam Felici, Independent Researcher 
+Miriam Felici, Designer  
 
 Marta Marchiori Manerba, Università di Pisa
 
